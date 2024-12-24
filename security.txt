@@ -1,6 +1,6 @@
 
-# www.bestratejo.com Vulnerability Disclosure
-Contact: https://srs.s4e.io/www.bestratejo.com/report
-Acknowledgments: https://srs.s4e.io/www.bestratejo.com
+# bestratejo.com Vulnerability Disclosure
+Contact: https://srs.s4e.io/bestratejo.com/report
+Acknowledgments: https://srs.s4e.io/bestratejo.com
 Preferred-Languages: en
-#s4e-verify-token: fab764af8ac90a1c97a6496768b94f76
+#s4e-verify-token: 2f8c6084558dcfd3f28c57135b5c4603
